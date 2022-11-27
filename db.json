@@ -36,19 +36,9 @@
       "id": 20
     },
     {
-      "nombre": "Cerveza",
-      "precio": 150,
-      "id": 21
-    },
-    {
       "nombre": "Jugo de Lulo",
       "precio": 250,
       "id": 22
-    },
-    {
-      "nombre": "Jugo",
-      "precio": 100,
-      "id": 23
     },
     {
       "nombre": "Ensalada",
@@ -59,6 +49,16 @@
       "nombre": "Dulde de Leche",
       "precio": 250,
       "id": 25
+    },
+    {
+      "nombre": "Cerveza",
+      "precio": 250,
+      "id": 26
+    },
+    {
+      "nombre": "Jugo",
+      "precio": 200,
+      "id": 27
     }
   ]
 }
