@@ -1,0 +1,64 @@
+{
+  "productos": [
+    {
+      "nombre": "Almuerzo",
+      "precio": "255",
+      "id": 9
+    },
+    {
+      "nombre": "Desayuno",
+      "precio": "120",
+      "id": 13
+    },
+    {
+      "nombre": "Tequila 2022",
+      "precio": "851",
+      "id": 14
+    },
+    {
+      "nombre": "Jugo de Durazno",
+      "precio": "450",
+      "id": 15
+    },
+    {
+      "nombre": "Tequila 3",
+      "precio": "300",
+      "id": 16
+    },
+    {
+      "nombre": "Tequila 4",
+      "precio": 101,
+      "id": 17
+    },
+    {
+      "nombre": "Juago de Piña Colada",
+      "precio": 200,
+      "id": 20
+    },
+    {
+      "nombre": "Cerveza",
+      "precio": 150,
+      "id": 21
+    },
+    {
+      "nombre": "Jugo de Lulo",
+      "precio": 250,
+      "id": 22
+    },
+    {
+      "nombre": "Jugo",
+      "precio": 100,
+      "id": 23
+    },
+    {
+      "nombre": "Ensalada",
+      "precio": 155,
+      "id": 24
+    },
+    {
+      "nombre": "Dulde de Leche",
+      "precio": 250,
+      "id": 25
+    }
+  ]
+}
