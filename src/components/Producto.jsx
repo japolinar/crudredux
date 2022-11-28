@@ -16,7 +16,7 @@ const Producto = ({producto}) => {
 
     //Preguntar al usuario
     Swal.fire({
-      title: '¿Estas Seguro de Eliminar? ' + nombre,
+      title: `¿Estas Seguro de Eliminar? "${nombre}"`,
       text: "Un producto eliminado no se puede recuperar!",
       icon: 'warning',
       showCancelButton: true,

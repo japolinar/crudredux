@@ -33,7 +33,7 @@ export function crearNuevoProductoAction(producto){
             //Alerta
             Swal.fire(
                 'Correcto!',
-                'El producto ' +'"'+ producto.nombre +'"'+ ' se agrego Correctamente!',
+                `El producto "${producto.nombre}" se agrego Correctamente!`,
                 'success'
               )
         } catch (error) {
@@ -163,7 +163,7 @@ export function editarProductoAction(producto){
 
             Swal.fire(
                 'Guardado!',                
-                'El producto ' +'"'+ producto.nombre +'"'+ ' se ha Modificado Correctamente!',
+                `El producto "${producto.nombre}" se ha Modificado Correctamente!`,
                 'success'
             )
 

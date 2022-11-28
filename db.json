@@ -2,7 +2,7 @@
   "productos": [
     {
       "nombre": "Almuerzo",
-      "precio": "255",
+      "precio": "305",
       "id": 9
     },
     {
@@ -59,6 +59,36 @@
       "nombre": "Jugo",
       "precio": 200,
       "id": 27
+    },
+    {
+      "nombre": "Producto 1",
+      "precio": 100,
+      "id": 28
+    },
+    {
+      "nombre": "Producto 2",
+      "precio": 150,
+      "id": 29
+    },
+    {
+      "nombre": "Producto 3",
+      "precio": 250,
+      "id": 30
+    },
+    {
+      "nombre": "Producto 4",
+      "precio": 300,
+      "id": 31
+    },
+    {
+      "nombre": "Producto 5",
+      "precio": 250,
+      "id": 32
+    },
+    {
+      "nombre": "Producto 6",
+      "precio": 350,
+      "id": 33
     }
   ]
 }
